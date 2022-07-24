@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tasks-box {
+	width: 100%;
+	max-width: 700px;
+}
